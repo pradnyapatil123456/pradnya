@@ -1,2 +1,8 @@
 # pradnya
-public class str_reverse { public static void main(string[]args) { char str[]={'s','t','r','i','n','g'} string s = new(str);
+public class str_reverse 
+{ 
+public static void main(string[]args) 
+{ 
+char str[]={'s','t','r','i','n','g'} 
+string s = new(str);
+system.out.println("the string s is")
